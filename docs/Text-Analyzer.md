@@ -1,0 +1,15 @@
+# Text Analyzer
+
+List of free online Text Analyzer available at [TadaTools](https://tadatools.com).
+
+- [Average Word Length – Mean Word Size Calculator](https://tadatools.com/tool/average-word-length-mean-word-size-calculator "Get instant, precise insights with the Average Word Length calculator. See readability and word size statistics in seconds for smarter writing.")
+- [Vowel Counter – Count Vowel Letters in Text](https://tadatools.com/tool/vowel-counter-count-vowel-letters-in-text "Vowel Counter delivers instant vowel frequency analysis online. Count vowels in text online with practical insights.")
+- [Character Frequency – Letter Usage in Text](https://tadatools.com/tool/character-frequency-letter-usage-in-text "Discover the character frequency analysis tool that delivers instant letter usage statistics for fast, actionable text insights.")
+- [Shortest Word Finder – Find Shortest Words in Text](https://tadatools.com/tool/shortest-word-finder-find-shortest-words-in-text "Find shortest word in text instantly with Shortest Word Finder. Get quick, actionable insights with a minimum word length analyzer in your browser.")
+- [Longest Word Finder – Find Longest Words in Text](https://tadatools.com/tool/longest-word-finder-find-longest-words-in-text "Find longest word in text instantly with Longest Word Finder. Get precise word length analysis and instant insights for documents, emails, and web content.")
+- [Word Frequency Counter – Find Most Used Words in Text](https://tadatools.com/tool/word-frequency-counter-find-most-used-words-in-text "Word Frequency Counter – Find Most Used Words in Text offers an instant word frequency analysis tool online, delivering quick, actionable insights.")
+- [Word Counter – Count Total Word in Text Tool](https://tadatools.com/tool/word-counter-count-total-word-in-text-tool "Word Counter delivers a word count tool online free with instant insights. Get precise word counts, patterns, and statistics for any text.")
+- [Special Character Counter – Count Symbols in Text](https://tadatools.com/tool/special-character-counter-count-symbols-in-text "Count special characters online with instant, browser-based analysis. Get symbol frequency and punctuation counts in seconds.")
+- [Digit Counter – Count Numbers in Text](https://tadatools.com/tool/digit-counter-count-numbers-in-text "Count numbers in text online with Digit Counter for instant insights and reliable digit frequency analysis.")
+- [Consonant Counter – Count Non-Vowel Letters in Text](https://tadatools.com/tool/consonant-counter-count-non-vowel-letters-in-text "Count consonants in text online with Consonant Counter for instant, insightful non-vowel analysis. Analyze inputs quickly and see consonant patterns that reveal writing styles.")
+- [Character Counter – Count Total Characters in Text](https://tadatools.com/tool/character-counter-count-total-characters-in-text "Count characters in text online with instant insights. Character Counter provides fast, accurate text length analysis for any document.")
