@@ -1,6 +1,6 @@
-# Energy & Power
+# Energy & Power Converter
 
-List of free online Energy & Power available at [TadaTools](https://tadatools.com).
+List of free online Energy & Power Converter available at [TadaTools](https://tadatools.com).
 
 - [Kilowatt to Megawatt Converter](https://tadatools.com/tool/kilowatt-to-megawatt-converter "Easily understand and convert Kilowatt to Megawatt with our comprehensive guide. Learn everything about kW to MW conversion, definitions, and real-world uses.")
 - [British Thermal Unit to Quad (US) Converter](https://tadatools.com/tool/british-thermal-unit-to-quad-us-converter "Easily convert British Thermal Units to Quads (US) with our guide. Understand BTU, Quad, and how to make accurate conversions for energy measurements.")

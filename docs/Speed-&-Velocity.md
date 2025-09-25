@@ -1,6 +1,6 @@
-# Speed & Velocity
+# Speed & Velocity Converter
 
-List of free online Speed & Velocity available at [TadaTools](https://tadatools.com).
+List of free online Speed & Velocity Converter available at [TadaTools](https://tadatools.com).
 
 - [Speed of Light to Kilometer per Hour Converter](https://tadatools.com/tool/speed-of-light-to-kilometre-per-hour-converter "Easily convert the Speed of Light to Kilometer per Hour with our guide—understand c to km/h, its history, and real-world applications for precise measurements.")
 - [Meter per Minute to Millimeter per Second Converter](https://tadatools.com/tool/metre-per-minute-to-millimetre-per-second-converter "Learn how to effortlessly convert Meter per Minute to Millimeter per Second (m/min to mm/s) with our comprehensive guide and easy-to-use converter tools, perfect for precise measurements.")

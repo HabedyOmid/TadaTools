@@ -1,6 +1,6 @@
-# Time
+# Time Converter
 
-List of free online Time available at [TadaTools](https://tadatools.com).
+List of free online Time Converter available at [TadaTools](https://tadatools.com).
 
 - [Femtosecond to Fortnight Converter](https://tadatools.com/tool/femtosecond-to-fortnight-converter "Discover how to easily convert femtoseconds to fortnights with our guide on the Femtosecond to Fortnight Converter, perfect for understanding time measurements like fs and fn.")
 - [Eon to Microsecond Converter](https://tadatools.com/tool/eon-to-microsecond-converter "Eon to Microsecond Converter makes it easy to understand vast time scales, translating eons into microseconds, or µs, with simplicity and precision.")

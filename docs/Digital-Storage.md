@@ -1,6 +1,6 @@
-# Digital Storage
+# Digital Storage Converter
 
-List of free online Digital Storage available at [TadaTools](https://tadatools.com).
+List of free online Digital Storage Converter available at [TadaTools](https://tadatools.com).
 
 - [Megabyte to Yobibit Converter](https://tadatools.com/tool/megabyte-to-yobibit-converter "Discover how a Megabyte to Yobibit Converter works to easily convert MB to Yib — essential for understanding large data measurements like Megabytes and Yobibits.")
 - [Megabyte to Exabyte Converter](https://tadatools.com/tool/megabyte-to-exabyte-converter "Discover how to easily convert Megabyte to Exabyte using our Megabyte to Exabyte Converter. Understand MB, EB, and see practical examples to manage massive data sizes effectively.")
